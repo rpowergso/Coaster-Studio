@@ -23,3 +23,7 @@ Export a **Center of Rails** spline CSV from NoLimits 2 Professional, then open 
 The app runs locally. The Windows build is unsigned. Fit and clearance checks use a provisional vehicle envelope. Verify joints and clearance on a physical sample before printing a full layout. Coaster Studio exports STL geometry for a separate print slicer.
 
 This repository hosts Coaster Studio releases and issue reports. The application is distributed as a Windows build. Third-party components retain their own licenses.
+
+## Bugs and feedback
+
+[Report a bug](https://github.com/rpowergso/Coaster-Studio/issues/new?template=bug_report.yml) · [Share feedback or suggest a feature](https://github.com/rpowergso/Coaster-Studio/issues/new?template=feedback.yml)
